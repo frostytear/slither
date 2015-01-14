@@ -1,0 +1,7 @@
+dnspython3
+cmd2
+blessings
+requests
+enum34
+beautifulsoup4
+urllib3
